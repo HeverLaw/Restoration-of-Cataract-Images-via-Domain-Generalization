@@ -11,14 +11,9 @@ from scipy import ndimage
 from PIL import Image, ImageEnhance
 
 # image dir and output image dir
-IMAGE_DIR = 'D:\\dataset\\DRIVE\\source_temp'
-OUTPUT_DIR = '../protected/DRIVE_blur2'
-OUTPUT_DIR = '../protected/DRIVE_temp_0827'
 
-
-# OUTPUT_DIR = '../protected/DRIVE_output'
-# IMAGE_DIR = '../images/original_image'
-# OUTPUT_DIR = '../images/simulation_image'
+IMAGE_DIR = '../images/original_image'
+OUTPUT_DIR = '../images/simulation_image'
 # number of cataract-like per clean image
 NUM_PER_NOISE = 16
 IMG_SIZE = (512, 512)
