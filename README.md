@@ -1,10 +1,12 @@
 # Restoration-of-Cataract-Images-via-Domain-Generalization
 
-code for **Domain Generalization in Restoration of Cataract Fundus Images via High-frequency Components**.
+Code for **Domain Generalization in Restoration of Cataract Fundus Images via High-frequency Components**.
 
 We propose a DG-based restoration model to effectively restore cataractous images unseen in training without any paired or annotated data.
 
-The code of this study will be released soon.
+The code of this study will be released soon. 
+
+The code of previous study "Restoration of Cataract Images via Domain Adaptation" has been released on  [Restoration-of-Cataract-Images-via-Domain-Adaptation](https://github.com/liamheng/Restoration-of-Cataract-Images-via-Domain-Adaptation)
 
 **Result:**
 ![description](./images/output.png)
