@@ -10,13 +10,12 @@ import os
 from scipy import ndimage
 from PIL import Image, ImageEnhance
 
-# image dir and output image dir
 
-IMAGE_DIR = '../images/original_image'
-OUTPUT_DIR = '../images/simulation_image'
-# number of cataract-like per clean image
+IMAGE_DIR = '../images/drive_cataract/clear_images'
+OUTPUT_DIR = '../images/drive_cataract/source'
 NUM_PER_NOISE = 16
 IMG_SIZE = (512, 512)
+
 
 def setup_seed(seed):
     np.random.seed(seed)
