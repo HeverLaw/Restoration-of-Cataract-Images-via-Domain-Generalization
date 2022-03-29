@@ -7,14 +7,6 @@ Unlike the previous work, this model is based on domain generalization, free fro
 
 ## Domain Generalization in Restoration of Cataract Fundus Images via High-frequency Components
 
-Li H ,  Liu H ,  Hu Y , et al. Restoration Of Cataract Fundus Images Via Unsupervised Domain Adaptation[C]// 2021 IEEE 18th International Symposium on Biomedical Imaging (ISBI). IEEE, 2021.
-
-**Result：**
-![Output](images/Output.png)
-A comparison of the restored fundus images. (a) cataract image. (b) clear fundus image after surgery. (c) dark channel prior. (d) SGRIF [2]. (e) pix2pix [4]. (f) CycleGAN [5]. (g) the proposed method [8].
-
-
-
 <div align="left">
     <img src="./images/introduction.png" alt="RCDG" style="zoom: 33%;" />
 </div>
